@@ -1,0 +1,16 @@
+server:
+  port: 9990
+testa: aaa
+
+datasource:
+  username: root
+  password: sj1234567
+  dbname: blog
+  host: 127.0.0.1
+  port: 3306
+  connectionConfig: charset=utf8mb4&parseTime=True&loc=Local
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password:
+  db: 0
